@@ -1,0 +1,4 @@
+Hello World
+writing in file.txt
+Hello World
+appending in file.txt
